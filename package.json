@@ -1,0 +1,24 @@
+{
+  "name": "country-codes",
+  "version": "1.0.0",
+  "description": "find countries by their codes in multiple languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PikaBoiii/country-codes.git"
+  },
+  "keywords": [
+    "country",
+    "code",
+    "countries"
+  ],
+  "author": "Paul Droigk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PikaBoiii/country-codes/issues"
+  },
+  "homepage": "https://github.com/PikaBoiii/country-codes#readme"
+}

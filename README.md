@@ -10,11 +10,11 @@ Supported languages:
 
 # Installation
 ```js
-npm install country-codes-multi-lang
+npm install country-codes-multi-language
 ```
 # Usage
 ```js
-const lookup = require('country-codes-multi-lang')
+const lookup = require('country-codes-multi-language')
 
 const code = 'CH'
 const language = 'de'

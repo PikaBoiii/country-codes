@@ -1,5 +1,5 @@
 {
-  "name": "country-codes-multi-lang",
+  "name": "country-codes-multi-language",
   "version": "1.2.0",
   "description": "find countries by their codes in multiple languages",
   "main": "index.js",
